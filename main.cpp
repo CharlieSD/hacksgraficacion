@@ -1,5 +1,7 @@
 //JUAN CARLOS CONDE RAMÍREZ
 //OBJETOS 3D - ILUMINACION
+
+//Con esto rompemos el codigo
 #include <stdio.h>
 #include <GL/glut.h>
 #include <GL/gl.h>
